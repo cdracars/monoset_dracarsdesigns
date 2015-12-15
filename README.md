@@ -19,4 +19,4 @@ Uses Node.js, Gulp, BrowserSync for Sass compiling, task running and Browser Syn
 - Styleguide files are generated on running default "gulp" command inside the theme's "styleguide" directory.
 
 ## Additional Info
-- You can also check out a Drupal North presentation where I go over some of the stuff here: [https://youtu.be/do5cUO9BDwk](https://youtu.be/do5cUO9BDwk) Slides: [https://goo.gl/Jx22dB](https://goo.gl/Jx22dB) 
+- You can also check out a Drupal North presentation where I go over some of the stuff here: [https://youtu.be/do5cUO9BDwk](https://youtu.be/do5cUO9BDwk) Slides: [https://goo.gl/Jx22dB](https://goo.gl/Jx22dB) # monoset_dracarsdesigns
